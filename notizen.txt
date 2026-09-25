@@ -1,0 +1,27 @@
+Line 
+
+Grundidee: 
+    - user versucht mit Mauszeiger einem geraden Grpahen, so genau wie möglich zu folgen
+        - Kooradinatensystem erstellen ✅
+        - Graph zeichen ✅
+
+    - abstand von Zeiger und Graph wird getrackt, am Ende wird Durchschnittsabstad berechnet
+        - Position von Zeiger im Kooradinatensystem tracken ✅
+        - Abstand von Zeiger und graph berechnen✅
+        - Abstand in möglichst kurzen Intervallen berechnen✅
+        - Am Ende Durchschnitt berechnen✅
+
+    - Ergebniss wird mit Balkendiagramm dargestellt
+        - Diagramm erstellen
+        - Werte einlesen
+
+    - Level erstellen
+        - verschiedene Level erstellen✅
+        - user Oberflägche zum auswählen von leveln erstellen ✅
+        - start level button mit aktivierung von mouse tracker 
+
+addOn's:
+    - highscore Liste
+    - außerhalb von roten Bereich bleiben, der näher kommt
+    - verschiedene hintergrund/Graph Designs
+    - anderen Graphvarianten, nicht nur geradend
