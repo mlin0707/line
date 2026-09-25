@@ -275,5 +275,3 @@ document.addEventListener("keydown", (event) => {
 resetDataBtn.addEventListener("click", (event) => {
    resetData();
 })
-
-
